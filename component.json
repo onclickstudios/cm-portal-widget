@@ -1,0 +1,14 @@
+{
+  "name": "cm-portal-widget",
+  "repo": "onclickstudios/cm-portal-widget",
+  "description": "Widget for general nclk account info (not client specific)",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
